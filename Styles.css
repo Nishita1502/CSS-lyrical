@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+html {
+	scroll-behavior: smooth;
+}
+
+body{
+    background-image : url("../images/girl.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* font-family: 'Dancing Script', cursive; */
+    
+        
+        
+}
+      h1 {
+        color: maroon;
+        margin-top: 40px;
+        font-size: 100px;
+        font-family: 'Dancing Script', cursive;
+        text-align: center;
+        text-shadow: 4px 2px 2px white;
+      }
+    
+      body,p,section{
+    
+        text-align: center;
+        font-style: oblique;
+        font-size: 20px;
+        color: white;
+        font-family: 'Dancing Script', cursive;
+       font-family: 'Itim', cursive;
+    
+      }
+    
+      
+    
+
+
+
